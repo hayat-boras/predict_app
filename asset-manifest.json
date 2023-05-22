@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/predict_app/static/css/main.0ff1b54d.css",
+    "main.js": "/predict_app/static/js/main.ff2aadfb.js",
+    "static/js/787.89e39b55.chunk.js": "/predict_app/static/js/787.89e39b55.chunk.js",
+    "index.html": "/predict_app/index.html",
+    "main.0ff1b54d.css.map": "/predict_app/static/css/main.0ff1b54d.css.map",
+    "main.ff2aadfb.js.map": "/predict_app/static/js/main.ff2aadfb.js.map",
+    "787.89e39b55.chunk.js.map": "/predict_app/static/js/787.89e39b55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff1b54d.css",
+    "static/js/main.ff2aadfb.js"
+  ]
+}
